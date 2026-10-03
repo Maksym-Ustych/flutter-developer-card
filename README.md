@@ -26,6 +26,7 @@
 
 ```bash
 flutter doctor
+```
 
 3. Відкрити проєкт у VS Code.
 4. Запустити Android-емулятор.
@@ -34,6 +35,7 @@ flutter doctor
 ```bash
 flutter pub get
 flutter run
+```
 
 ## Перевірка коду
 
@@ -74,18 +76,18 @@ Hot Restart повністю перезапускає застосунок і п
 
 ### Світла тема
 
-![Світла тема](docs/5.jpg)
+![Світла тема](docs/1.jpg)
 
 ### Темна тема
 
-![Темна тема](docs/3.jpg)
+![Темна тема](docs/4.jpg)
 
 ### Запуск у VS Code
 
-![Світла тема у VS Code](docs/1.jpg)
+![Світла тема у VS Code](docs/2.jpg)
 
-![Темна тема у VS Code](docs/2.jpg)
+![Темна тема у VS Code](docs/3.jpg)
 
 ### Flutter Doctor
 
-![Flutter Doctor](docs/4.jpg)
+![Flutter Doctor](docs/5.jpg)
